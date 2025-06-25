@@ -9,3 +9,10 @@ hey_list.append("d") #to add onw element
 hey_list.remove("a") #to remove
 for task in list_of_task:
   print task() #for loop 
+
+name_of_dictionary = {
+  "key" : "description", "key2" : "description"
+}
+
+print(name_of_dictionary[key]) #access dictionary
+
