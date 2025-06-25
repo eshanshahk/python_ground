@@ -16,3 +16,4 @@ name_of_dictionary = {
 
 print(name_of_dictionary[key]) #access dictionary
 
+for task in task_list: #for loop
