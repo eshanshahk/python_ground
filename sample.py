@@ -7,4 +7,5 @@ print("Hello",name)
 age=int(input("Enter your age"))
 print("Age=",age)
 numbers=list(map(int,input("Enter numbers: ").split()))
+
 print(numbers)
