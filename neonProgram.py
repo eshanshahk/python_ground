@@ -2,12 +2,12 @@ num=int(input(""))
 a=num*num
 sumOfDigit=0
 
-while num>0:
+while a>0:
     digit=a%10
     sumOfDigit=+digit
     a=a//10
 
 if(sumOfDigit==num):
-    print("Neon Number")
+    print("Neon Number",end="")
 else:
-    print("Not a Neon Number")
+    print("Not a Neon Number",end="")
