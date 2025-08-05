@@ -4,6 +4,7 @@ sumOfDigit=0
 
 while a>0:
     digit=a%10
+    
     sumOfDigit+=digit
     
     a=a//10
