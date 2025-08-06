@@ -10,6 +10,6 @@ while a>0:
     a=a//10
 
 if(sumOfDigit==num):
-    print("Neon Number",end="")
+    print("Neon Number",end="a")
 else:
     print("Not a Neon Number",end="")
